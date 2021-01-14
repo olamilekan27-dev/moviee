@@ -1,0 +1,50 @@
+*{
+	margin:0;
+	padding:0px;
+}
+body{
+	background: skyblue;
+	text-align: center;
+
+}
+
+small{
+	background: black;
+	color:#fff;
+}
+
+.container{
+	width:80%;
+	margin:auto;
+}
+img{
+	width: 20%;
+	float:white;
+	margin-top:18px;
+}
+
+label{
+
+	display:block;
+	font-size:2em;
+	text-align:center;
+
+}
+
+input[type=text],input[type=email],input[type=tel]{
+	font-size:18px;
+	padding:7px; 
+	width:78%;
+}
+
+button{
+	background: green;
+	color:white;
+	width:50%;
+	border:none;
+	font-size: 2em;
+	border-radius: 8px;
+	margin-top: 10px;
+	cursor:pointer;
+}
+
